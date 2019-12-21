@@ -16,7 +16,7 @@ A Fully develop VR shooting game where the player tries to fight across 50 hand-
 There is only a small part of the code due to an NDA. For more information contact with me.
 
 #### Battle Tanks
-A simple Tanks game deveolped to learn in deapth Unreal and C++, built integrally using C++, no blueprints.
+A simple Tanks game deveolped to learn in depth Unreal and C++, built integrally using C++, no blueprints.
 
 
 #### Shooting Grounds
