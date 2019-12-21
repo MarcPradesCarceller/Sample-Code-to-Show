@@ -8,4 +8,4 @@ when findingh paths, instead of a more robotic optimal one.
 
 The pathfinding uses the A* method, multithreathing and a custom Heap for runtime optimization.
 
-![](https://imgur.com/a/LJJ7JJ8)
+![](https://imgur.com/1QrcKER)
