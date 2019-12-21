@@ -2,7 +2,7 @@ Some Code to Show
 ===============
 This repo contains code from several projects, both in C# and C++ using Unity and Unreal respectively.
 
-As this repository can change over time, every project will have his own README with more in deep information and images about the project. For more information and ** A LOT MORE PROJECTS** go to my web portfolio: https://marcpradesdev.wixsite.com/gamedev
+As this repository can change over time, every project will have his own README with more in deep information and images about the project. For more information and **A LOT MORE PROJECTS** go to my web portfolio: https://marcpradesdev.wixsite.com/gamedev
 
 Projects
 ---------------
