@@ -26,5 +26,7 @@ An infinite procedually-generated first person shooter deveoped to learn in deap
 Contact information
 ---------------
 Mail: cram_pc@hotmail.com
+
 Linkedin: https://www.linkedin.com/in/marc-prades-carceller-194804105/
+
 Web-Portfolio: https://marcpradesdev.wixsite.com/gamedev
