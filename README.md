@@ -21,3 +21,10 @@ A simple Tanks game deveolped to learn in deapth Unreal and C++, built integrall
 
 #### Shooting Grounds
 An infinite procedually-generated first person shooter deveoped to learn in deapth Unreal and C++. The AI of the game has been built using C++, sensors and Behaviour trees to dip into a more compleat AI development experience.
+
+
+Contact information
+---------------
+Mail: cram_pc@hotmail.com
+Linkedin: https://www.linkedin.com/in/marc-prades-carceller-194804105/
+Web-Portfolio: https://marcpradesdev.wixsite.com/gamedev
